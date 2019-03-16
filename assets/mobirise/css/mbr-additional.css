@@ -1,8 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -674,6 +677,13 @@ h6,
 .theme-border {
   border: 1px solid #c0a375;
 }
+#header3-l .mbr-section-title,
+#header3-l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-l .mbr-section-title {
+  font-family: 'Titillium Web', sans-serif;
+}
 #features1-e .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
@@ -690,6 +700,9 @@ h6,
 #features1-e .mbr-cards-col:nth-child(even) .card-title {
   font-family: 'Droid Serif', serif;
   font-size: 22px;
+}
+#extCountdown2-b .mbr-section-title {
+  font-family: 'Titillium Web', sans-serif;
 }
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;

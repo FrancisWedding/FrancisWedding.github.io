@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 21,
+    "uniqCompNum": 23,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
@@ -43,6 +43,57 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/main-website-1199x758.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-m"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Naweek Program&nbsp;",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-l"
+        },
         {
           "_params": {
             "showImages": true,
@@ -127,7 +178,7 @@
           "title1": "21 ste Verjaardag Viering",
           "subtitle1": "19 Julie 2019",
           "caption1": "Ons nooi almal uit om saam ons&nbsp;<br>Liza-Mae se 21ste Verjaardag te vier.<br><br>Opstel in die boma rondom kampvuur met regisseurs stoele en tafels met hooibale en komberse<br><br>6pm - De Hoop Natuur Reservaat<br>Overberg - Wes Kaap<br>Kontant Kroeg Beskikbaar",
-          "title2": "Trou Dag",
+          "title2": "Brendon &amp; Sherize se Trou Dag",
           "subtitle2": "20 Julie 2019",
           "caption2": "Akkommodasie beskikbaar by <br>- De Hoop Natuur Reservaat -<br>* Minimum twee nagte verpligtend *<br><br>Kontant Kroeg Beskikbaar&nbsp;",
           "title3": "Totsiens Ontbyt",
@@ -200,7 +251,13 @@
             "Extension"
           ],
           "_name": "extCountdown2",
-          "_anchor": "extCountdown2-b"
+          "_anchor": "extCountdown2-b",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
         },
         {
           "_styles": {
