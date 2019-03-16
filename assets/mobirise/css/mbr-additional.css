@@ -1,10 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
 
 
 
@@ -676,6 +674,23 @@ h6,
 .theme-border {
   border: 1px solid #c0a375;
 }
+#features1-e .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-e .mbr-cards-col:nth-child(odd) .card-title {
+  font-family: 'Droid Serif', serif;
+  font-size: 22px;
+}
+#features1-e .mbr-cards-col:nth-child(odd) .card-subtitle {
+  font-size: 23px;
+}
+#features1-e .mbr-cards-col:nth-child(even) .card-subtitle {
+  font-size: 23px;
+}
+#features1-e .mbr-cards-col:nth-child(even) .card-title {
+  font-family: 'Droid Serif', serif;
+  font-size: 22px;
+}
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -737,43 +752,4 @@ h6,
 #menu-8 .link[aria-expanded="true"],
 #menu-8 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#header2-9 .mbr-section-title {
-  text-align: center;
-  font-family: 'Lora', serif;
-  color: #353b4c;
-}
-#header2-9 .mbr-section-text {
-  color: #28324e;
-  text-align: center;
-}
-#header2-9 .mbr-section-text B {
-  font-family: 'Indie Flower', cursive;
-}
-#header2-9 .mbr-section-text FONT {
-  color: #353b4c;
-}
-#msg-box8-d .mbr-section-title,
-#msg-box8-d p {
-  color: #fff;
-}
-#msg-box8-d .mbr-section-title {
-  color: #000000;
-}
-#features1-e .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
-#features1-e .mbr-cards-col:nth-child(odd) .card-title {
-  font-family: 'Droid Serif', serif;
-  font-size: 22px;
-}
-#features1-e .mbr-cards-col:nth-child(odd) .card-subtitle {
-  font-size: 23px;
-}
-#features1-e .mbr-cards-col:nth-child(even) .card-subtitle {
-  font-size: 23px;
-}
-#features1-e .mbr-cards-col:nth-child(even) .card-title {
-  font-family: 'Droid Serif', serif;
-  font-size: 22px;
 }
