@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png"
   },
@@ -46,14 +46,14 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "5",
-            "paddingBottom": "0",
+            "paddingTop": "6",
+            "paddingBottom": 4,
             "bgColor": "#fff"
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/main-website-1199x758.png",
+              "src": "@PROJECT_PATH@/assets/images/12-655x797.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -68,7 +68,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-m"
+          "_anchor": "image2-o"
         },
         {
           "_styles": {
@@ -348,49 +348,6 @@
           ],
           "_name": "menu",
           "_anchor": "menu-8"
-        },
-        {
-          "_params": {
-            "autoplay": false,
-            "animType": "basic",
-            "theme": "absent",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/12-1024x576.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/12-655x797.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/12-85x48.png",
-                "title": "title 1",
-                "text": "text 1",
-                "active": true
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": false,
-            "responsive": "1",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "captionsEffect": "slide",
-            "showBullets": false,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1024",
-            "height": "576"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-n"
         }
       ]
     }
