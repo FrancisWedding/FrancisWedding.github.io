@@ -688,6 +688,16 @@ h6,
   color: #2c2e33;
   font-size: 20px;
 }
+#header3-1n .mbr-section-title,
+#header3-1n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1n .mbr-section-title {
+  color: #ffffff;
+}
+#header3-1n .mbr-section-subtitle {
+  color: #ffffff;
+}
 #features1-e .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
