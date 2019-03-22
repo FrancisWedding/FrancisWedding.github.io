@@ -784,6 +784,7 @@ h6,
 
 
 
+
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -859,6 +860,10 @@ h6,
 #header3-14 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-14 .mbr-section-title {
+  font-family: 'PT Serif', serif;
+  font-size: 36px;
+}
 #content1-16 P {
   text-align: center;
 }
@@ -868,6 +873,9 @@ h6,
 #form1-19 .mbr-section-title {
   font-size: 22px;
   font-family: 'PT Serif', serif;
+}
+#extTable1-18 .mbr-section-title {
+  font-size: 36px;
 }
 #header3-1b .mbr-section-title,
 #header3-1b .mbr-section-subtitle {

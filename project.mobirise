@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-13_2138",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -360,7 +360,7 @@
             "logo": false,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
@@ -459,7 +459,7 @@
             "logo": false,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
@@ -497,7 +497,7 @@
         {
           "_params": {
             "showText": false,
-            "paddingTop": "3",
+            "paddingTop": "6",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
@@ -669,6 +669,11 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -792,13 +797,18 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>Eenheid</th><th>Max Gaste</th><th>Tarrief Per Persoon</th><th>Hoeveelheid Eenhede</th></tr></thead><tbody><tr><td>Opstal Stable Suite</td><td>2</td><td>R</td><td>1</td></tr><tr><td>Opstal Figtree Suite</td><td>2</td><td>R</td><td>1</td></tr><tr><td>Opstal Cloete Cottage</td><td>2</td><td>R</td><td>1</td></tr><tr><td>Opstal Cloete Suites</td><td>2</td><td>R</td><td>4</td></tr><tr><td>Opstal Otter Suites</td><td>2</td><td>R</td><td>3</td></tr><tr><td>Opstal Manor House&nbsp;</td><td>2</td><td>R</td><td>2</td></tr><tr><td>Opstal Houses</td><td>6</td><td>R</td><td>3</td></tr><tr><td>Vlei Cottages</td><td>4</td><td>R</td><td>3</td></tr><tr><td>Equipped Cottages</td><td>4</td><td>R</td><td>6</td></tr><tr><td>Equipped Cottages</td><td>6</td><td>R</td><td>1</td></tr><tr><td>De Hoop Village</td><td>6</td><td>R</td><td>9</td></tr><tr><td>Campsite Rondawels</td><td>2</td><td>R</td><td>5</td></tr></tbody>",
+          "table": "<thead><tr><th>Eenheid</th><th>Max Gaste</th><th>Tarrief p/p</th><th>No Eenhede</th></tr></thead><tbody><tr><td>Opstal Stable Suite</td><td>2</td><td>R</td><td>1</td></tr><tr><td>Opstal Figtree Suite</td><td>2</td><td>R</td><td>1</td></tr><tr><td>Opstal Cloete Cottage</td><td>2</td><td>R</td><td>1</td></tr><tr><td>Opstal Cloete Suites</td><td>2</td><td>R</td><td>4</td></tr><tr><td>Opstal Otter Suites</td><td>2</td><td>R</td><td>3</td></tr><tr><td>Opstal Manor House&nbsp;</td><td>2</td><td>R</td><td>2</td></tr><tr><td>Opstal Houses</td><td>6</td><td>R</td><td>3</td></tr><tr><td>Vlei Cottages</td><td>4</td><td>R</td><td>3</td></tr><tr><td>Equipped Cottages</td><td>4</td><td>R</td><td>6</td></tr><tr><td>Equipped Cottages</td><td>6</td><td>R</td><td>1</td></tr><tr><td>De Hoop Village</td><td>6</td><td>R</td><td>9</td></tr><tr><td>Campsite Rondawels</td><td>2</td><td>R</td><td>5</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
           "_name": "extTable1",
-          "_anchor": "extTable1-18"
+          "_anchor": "extTable1-18",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_params": {
@@ -1031,7 +1041,7 @@
             "logo": false,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
@@ -1071,10 +1081,10 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": 0,
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1204,7 +1214,7 @@
             "logo": false,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
@@ -1281,7 +1291,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Boodskap"
               }
             }
           },
@@ -1366,7 +1376,7 @@
             "logo": false,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#7e9b9f",
