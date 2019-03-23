@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-13_2138",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -29,7 +29,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 60,
+    "uniqCompNum": 25,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/sb-128x131.png",
@@ -52,10 +52,10 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "50",
+            "imageSize": "44",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/75244738-vector-succulent-plant-texture-drawing-seamless-pattern-background-great-for-subtle-botanical-modern-1-1300x1293.jpg",
             "parallax": true,
@@ -90,9 +90,9 @@
               "size": 250
             }
           },
-          "title": "Ons nooi julle Hartlik uit om saam met ons te kom vier",
+          "title": "Ons nooi julle Hartlik uit na ons Troudag 20 Julie 2019",
           "text": "Twee Lewens, Twee Harte, Twee Siele word Een, <br>Kom Deel in ons Blydskap",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Venue &amp; Akkommodasie</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Aanwysings na De Hoop</a>  ",
           "_tags": [
             "Theme"
           ],
@@ -145,7 +145,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false,
+            "showButtons": true,
             "columnsColor": "#2e2e2e",
             "paddingTop": "3",
             "paddingBottom": 2,
@@ -222,10 +222,10 @@
           },
           "title1": "21 ste Verjaardag Viering",
           "subtitle1": "19 Julie 2019",
-          "caption1": "Ons nooi almal uit om saam ons&nbsp;<br>Liza-Mae se 21ste Verjaardag te vier en bymekaar te kom voor die troue vir opvang en lekker saam kuier.<br><br>Opstel in die boma rondom kampvuur met Gedekte tafels, hooibale en komberse<br><br>6pm - De Hoop Natuur Reservaat<br>Overberg - Wes Kaap<br>Kontant Kroeg Beskikbaar",
+          "caption1": "Ons nooi almal uit om saam ons&nbsp;<br>Liza-Maé se 21ste Verjaardag te vier en bymekaar te kom voor die troue vir opvang en lekker saam kuier.<br><br>Opstel in die boma rondom kampvuur met Gedekte tafels, hooibale en komberse<br><br>18h00 - De Hoop Natuur Reservaat<br>Overberg - Wes Kaap<br>Kontant Kroeg Beskikbaar<br>",
           "title2": "Brendon &amp; Sherize se Trou Dag",
           "subtitle2": "20 Julie 2019",
-          "caption2": "Akkommodasie beskikbaar by <br>- De Hoop Natuur Reservaat -<br>* Minimum twee nagte verpligtend *<br><br>Kontant Kroeg Beskikbaar<br><br><b>RSVP voor 31 Mei 2019</b>",
+          "caption2": "Akkommodasie beskikbaar by <br>- De Hoop Natuur Reservaat -<br>* Minimum twee nagte verpligtend *<br><br>Kontant Kroeg Beskikbaar<br><br><b>RSVP voor 31 Mei 2019</b><br><b><br></b>",
           "title3": "Totsiens Ontbyt",
           "subtitle3": "21 Julie 2019",
           "caption3": "Almal is welkom om by ontbyt aan te sluit voordat almal vertrek vir n laaste totsiens.<br><br>Laat voor die tyd en ek bespreek vir ons<br><br>R 100 per persoon",
@@ -238,9 +238,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Aanwysings na De Hoop</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Venue &amp; Akkommodasie</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -249,27 +249,11 @@
           ],
           "_name": "features1",
           "_anchor": "features1-e",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
-              "font-size": "22px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "font-size": "23px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "font-size": "23px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
-              "font-size": "22px"
-            }
-          }
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding mbr-after-navbar\" data-rv-view=\"5\" style=\"background-color: rgb(126, 155, 159);\">\n\n        \n\n    <div class=\"mbr-cards-row row striped\">\n\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 120px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/fa7ed372b698d4f2ef187464306e1f0d-340x270.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"38\">21 ste Verjaardag Viering</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"39\">19 Julie 2019</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"40\">Ons nooi almal uit om saam ons&nbsp;<br>Liza-Maé se 21ste Verjaardag te vier en bymekaar te kom voor die troue vir opvang en lekker saam kuier.<br><br>Opstel in die boma rondom kampvuur met Gedekte tafels, hooibale en komberse<br><br>18h00 - De Hoop Natuur Reservaat<br>Overberg - Wes Kaap<br>Kontant Kroeg Beskikbaar<br></p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"41\">Aanwysings na De Hoop</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 120px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/2efec65747c007237b100f645037547a-600x413.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"42\">Brendon &amp; Sherize se Trou Dag</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"43\">20 Julie 2019</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"44\">Akkommodasie beskikbaar by <br>- De Hoop Natuur Reservaat -<br>* Minimum twee nagte verpligtend *<br><br>Kontant Kroeg Beskikbaar<br><br><strong>RSVP voor 31 Mei 2019</strong><br><strong><br></strong></p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"45\">Venue &amp; Akkommodasie</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 120px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/thank-you-560x397.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"46\">Totsiens Ontbyt</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"47\">21 Julie 2019</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"48\">Almal is welkom om by ontbyt aan te sluit voordat almal vertrek vir 'n laaste totsiens.<br><br>Kan gereël word saam met akkommodasie<br>R 100 per persoon direk betaalbaar aan De Hoop</p>\n            </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n.striped .mbr-cards-col:nth-child(2n+1) {\n  background-color: #2e2e2e;\n}\n.mbr-cards-col:nth-child(odd) .card-title {\n  font-family: 'Droid Serif', serif;\n  font-size: 22px;\n}\n.mbr-cards-col:nth-child(odd) .card-subtitle {\n  font-size: 23px;\n}\n.mbr-cards-col:nth-child(even) .card-subtitle {\n  font-size: 23px;\n}\n.mbr-cards-col:nth-child(even) .card-title {\n  font-family: 'Droid Serif', serif;\n  font-size: 22px;\n}\n",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -311,7 +295,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -358,7 +344,7 @@
           },
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -373,7 +359,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kontak Besonderhede</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Venue &amp; Akkommodasie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page2.html\">Aanwysings na De Hoop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page3.html\">RSVP</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kontak Besonderhede</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Venue &amp; Akkommodasie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page2.html\">Aanwysings na De Hoop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page3.html\">RSVP</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -388,7 +374,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ons Trou Dag 20 Julie 2019</a>",
           "_tags": [
             "Theme"
           ],
@@ -410,7 +396,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -457,7 +445,7 @@
           },
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -472,7 +460,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kontak Besonderhede</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Venue &amp; Akkommodasie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page2.html\">Aanwysings na De Hoop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page3.html\">RSVP</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kontak Besonderhede</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Venue &amp; Akkommodasie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page2.html\">Aanwysings na De Hoop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page3.html\">RSVP</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -487,7 +475,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ons Trou Dag 20 Julie 2019</a>",
           "_tags": [
             "Theme"
           ],
@@ -696,7 +684,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>De Hoop Natuur Resrvaat is gelee tussen Bredasdorp en Swellendam.</p><p>* Loer gerus onder aan die bladsy vir aanwysings *</p><p><br></p><p>Die hele De Hoop Reservaat word vir ons speciale dag gereserveer en ons vra dat alle gaste graag&nbsp;</p><p>hier oorslaap Vrydag, 19 July asook Saterdag, 20 July 2019</p><p>*Minimum twee nage*</p><p><br></p><p>Moet gerus nie bekommer oor aand ete die Vrydag of Saterdag aand nie, ons het reeds voorsiening gemaak.</p><p>Julle is welkom om oggend ete te geniet by die restaurant.</p><p><br></p>",
+          "text": "<p>De Hoop Natuur Resrvaat is geleë tussen Bredasdorp en Swellendam.</p><p>* Loer gerus op aanwysings bladsy vir pad kaart en instruksies *</p><p><br></p><p>Die hele De Hoop Reservaat word vir ons speciale dag gereserveer en ons vra dat alle gaste graag&nbsp;</p><p>hier oorslaap Vrydag, 19 July asook Saterdag, 20 July 2019</p><p>*Minimum twee nage*</p><p><br></p><p>Moet gerus nie bekommer oor aand ete die Vrydag of Saterdag aand nie, ons het reeds voorsiening gemaak.</p><p>Julle is welkom om oggend ete te geniet by die restaurant.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -724,13 +712,13 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Kontak &nbsp;graag Sherize om te bevestig watter eenheid julle wil bespreek en ek reel met De Hoop om Faktuur aan te stuur.<br><br>Alles akkommodasie moet asb voor die 31 Mei 2019 met Sherize bevestig word.",
+          "title": "Kontak &nbsp;graag Sherize om te bevestig watter eenheid julle wil bespreek en sy reël met De Hoop om 'n Faktuur aan te stuur.<br><br>Alle akkommodasie moet asb voor die 31 Mei 2019 met Sherize bevestig word.",
           "subtitle": "Cell: 082 496 5682 &nbsp;<br>Epos: Diedericks.Sherize@gmail.com<br><br>Of voltooi die onderstaande",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Kontak ons gerus</a>",
           "form": {
             "action": "diedericks.sherize@gmail.com",
             "alerts": {
-              "success": "Ek kom sou gou moontlik terug na jou !"
+              "success": "Ontvang"
             },
             "fields": {
               "name": {
@@ -992,7 +980,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1039,7 +1029,7 @@
           },
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -1054,7 +1044,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kontak Besonderhede</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Venue &amp; Akkommodasie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page2.html\">Aanwysings na De Hoop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page3.html\">RSVP</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kontak Besonderhede</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Venue &amp; Akkommodasie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page2.html\">Aanwysings na De Hoop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page3.html\">RSVP</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1069,7 +1059,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ons Trou Dag 20 Julie 2019</a>",
           "_tags": [
             "Theme"
           ],
@@ -1120,7 +1110,7 @@
             }
           },
           "title": "Aanwysings Na De Hoop",
-          "text": "<b>Self-drive from Cape Town </b>(direct route approximately 3 - 3.5hours): \n<br>Take N2 to Caledon and onto Riviersonderend.  From there travel approximately 45km along the N2 towards Swellendam and turn right onto gravel road, sign posted Spitskop (approx. 13km before Swellendam).  Continue on this road for about 32km until you reach a T-junction.  Turn left at the T-junction sign posted Malgas / Infanta and travel approximately 2km before you turn right onto the De Hoop Pad signed BUCHU BUSHCAMP / DE HOOP. It is 6km from this turn off to the Main Gate of the Park and a further 5km to the de Hoop Reception.\n<br>\n<br><b>Self-drive from Cape Town </b>(scenic route approximately 3.5- 4hours): \n<br>Take N2 to Caledon. Turn right into Caledon and drive on the R316 through Napier to Bredasdorp. From Bredasdorp turn left at the Engen Garage and take the R319 to Swellendam out of town for about 6kms and then turn right - sign posted De Hoop / Malgas / Infanta. Travel on the gravel road for 33kms until you see a sign to the right - BUCHU BUSHCAMP / DE HOOP. It is 6km from this turn off to the Main Gate of the Park and a further 5km to the de Hoop Reception.\n<br>\n<br><b>Self-drive from Swellendam</b>&nbsp;drive on N2 for 13km in the direction of Cape Town, turn left onto gravel road, signed Spitskop.  Continue on this road for about 32km until you reach a T-junction.  Turn left at the T-junction signed Malgas / Infanta and travel approximately 2km before you turn right onto the De Hoop Pad signed BUCHU BUSHCAMP / DE HOOP. It is 2km from this turn off to the Main Gate of the Park and a further 5km to the de Hoop Reception.&nbsp;<br>",
+          "text": "<b>Self-drive from Cape Town </b>(direct route approximately 3 - 3.5hours): \n<br>Take N2 to Caledon and onto Riviersonderend.  From there travel approximately 45km along the N2 towards Swellendam and turn right onto gravel road, sign posted Spitskop (approx. 13km before Swellendam).  Continue on this road for about 32km until you reach a T-junction.  Turn left at the T-junction sign posted Malgas / Infanta and travel approximately 2km before you turn right onto the De Hoop Pad signed BUCHU BUSHCAMP / DE HOOP. It is 6km from this turn off to the Main Gate of the Park and a further 5km to the de Hoop Reception.\n<br>\n<br><b>Self-drive from Bredasdorp&nbsp;</b><br>From Bredasdorp turn left at the Engen Garage and take the R319 to Swellendam out of town for about 6kms and then turn right - sign posted De Hoop / Malgas / Infanta. Travel on the gravel road for 33kms until you see a sign to the right - BUCHU BUSHCAMP / DE HOOP. It is 6km from this turn off to the Main Gate of the Park and a further 5km to the de Hoop Reception.\n<br>\n<br><b>Self-drive from Swellendam</b>&nbsp;drive on N2 for 13km in the direction of Cape Town, turn left onto gravel road, signed Spitskop.  Continue on this road for about 32km until you reach a T-junction.  Turn left at the T-junction signed Malgas / Infanta and travel approximately 2km before you turn right onto the De Hoop Pad signed BUCHU BUSHCAMP / DE HOOP. It is 2km from this turn off to the Main Gate of the Park and a further 5km to the de Hoop Reception.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1165,7 +1155,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1212,7 +1204,7 @@
           },
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -1227,7 +1219,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kontak Besonderhede</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Venue &amp; Akkommodasie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page2.html\">Aanwysings na De Hoop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page3.html\">RSVP</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kontak Besonderhede</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Venue &amp; Akkommodasie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page2.html\">Aanwysings na De Hoop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page3.html\">RSVP</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1242,7 +1234,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ons Trou Dag 20 Julie 2019</a>",
           "_tags": [
             "Theme"
           ],
@@ -1252,7 +1244,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubTitle": true,
+            "showSubTitle": false,
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1271,7 +1263,7 @@
           "form": {
             "action": "Diedericks.sherize@gmail.com",
             "alerts": {
-              "success": "Baie Dankie vir die laat weet !"
+              "success": "Ons sien vreeslik uit om die dag saam met julle te spandeer, laat weet graag indien daar enige vrae is!"
             },
             "fields": {
               "name": {
@@ -1327,7 +1319,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1374,7 +1368,7 @@
           },
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -1389,7 +1383,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kontak Besonderhede</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Venue &amp; Akkommodasie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page2.html\">Aanwysings na De Hoop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page3.html\">RSVP</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Kontak Besonderhede</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"index.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page1.html\">Venue &amp; Akkommodasie</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page2.html\">Aanwysings na De Hoop</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"page3.html\">RSVP</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1404,7 +1398,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ons Trou Dag 20 Julie 2019</a>",
           "_tags": [
             "Theme"
           ],
@@ -1507,7 +1501,7 @@
           "caption1": "Bruidegom (Brendon) 083 474 1259\n<br>Bruid (Sherize) 082 496 5682<br><br>Epos: Diedericks.Sherize@gmail.com",
           "title2": "De Hoop Reservaat",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Website: www.dehoopcollection.com Email: res@dehoopcollection.co.za or info@dehoopcollection.co.za\n<br>Phone: 021 422 4522",
+          "caption2": "Website: www.dehoopcollection.com <br>Email: res@dehoopcollection.co.za or info@dehoopcollection.co.za\n<br>Tel: 021 422 4522",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
