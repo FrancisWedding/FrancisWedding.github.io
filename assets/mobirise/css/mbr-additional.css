@@ -705,6 +705,9 @@ h6,
 #features1-e .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
+#features1-e .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 #features1-e .mbr-cards-col:nth-child(odd) .card-title {
   font-family: 'Droid Serif', serif;
   font-size: 22px;
@@ -880,9 +883,6 @@ h6,
 #form1-19 .mbr-section-title {
   font-size: 22px;
   font-family: 'PT Serif', serif;
-}
-#extTable1-18 .mbr-section-title {
-  font-size: 36px;
 }
 #header3-1b .mbr-section-title,
 #header3-1b .mbr-section-subtitle {

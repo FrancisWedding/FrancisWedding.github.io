@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-13_2138",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -29,7 +29,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.4",
     "siteFonts": [],
-    "uniqCompNum": 25,
+    "uniqCompNum": 31,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/sb-128x131.png",
@@ -249,11 +249,16 @@
           ],
           "_name": "features1",
           "_anchor": "features1-e",
-          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding mbr-after-navbar\" data-rv-view=\"5\" style=\"background-color: rgb(126, 155, 159);\">\n\n        \n\n    <div class=\"mbr-cards-row row striped\">\n\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 120px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/fa7ed372b698d4f2ef187464306e1f0d-340x270.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"38\">21 ste Verjaardag Viering</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"39\">19 Julie 2019</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"40\">Ons nooi almal uit om saam ons&nbsp;<br>Liza-Maé se 21ste Verjaardag te vier en bymekaar te kom voor die troue vir opvang en lekker saam kuier.<br><br>Opstel in die boma rondom kampvuur met Gedekte tafels, hooibale en komberse<br><br>18h00 - De Hoop Natuur Reservaat<br>Overberg - Wes Kaap<br>Kontant Kroeg Beskikbaar<br></p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"41\">Aanwysings na De Hoop</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 120px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/2efec65747c007237b100f645037547a-600x413.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"42\">Brendon &amp; Sherize se Trou Dag</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"43\">20 Julie 2019</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"44\">Akkommodasie beskikbaar by <br>- De Hoop Natuur Reservaat -<br>* Minimum twee nagte verpligtend *<br><br>Kontant Kroeg Beskikbaar<br><br><strong>RSVP voor 31 Mei 2019</strong><br><strong><br></strong></p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"45\">Venue &amp; Akkommodasie</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 120px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/thank-you-560x397.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"46\">Totsiens Ontbyt</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"47\">21 Julie 2019</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"48\">Almal is welkom om by ontbyt aan te sluit voordat almal vertrek vir 'n laaste totsiens.<br><br>Kan gereël word saam met akkommodasie<br>R 100 per persoon direk betaalbaar aan De Hoop</p>\n            </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding mbr-after-navbar\" data-rv-view=\"5\" style=\"background-color: rgb(126, 155, 159);\">\n\n        \n\n    <div class=\"mbr-cards-row row striped\">\n\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 120px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/fa7ed372b698d4f2ef187464306e1f0d-340x270.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"19\">21 ste Verjaardag Viering</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"20\">19 Julie 2019</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"21\">Ons nooi almal uit om saam ons&nbsp;<br>Liza-Maé se 21ste Verjaardag te vier en bymekaar te kom voor die troue vir opvang en lekker saam kuier.<br><br>Opstel in die boma rondom kampvuur met Gedekte tafels, hooibale en komberse<br><br>18h00 - De Hoop Natuur Reservaat<br>Overberg - Wes Kaap<br>Kontant Kroeg Beskikbaar<br></p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"22\">Aanwysings na De Hoop</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 120px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/2efec65747c007237b100f645037547a-600x413.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"23\">Brendon &amp; Sherize se Trou Dag</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"24\">20 Julie 2019</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"25\">Akkommodasie beskikbaar by <br>- De Hoop Natuur Reservaat -<br>* Minimum twee nagte verpligtend *<br><br>Kontant Kroeg Beskikbaar<br><br><strong>RSVP voor 31 Mei 2019</strong><br><strong><br></strong></p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"26\">Venue &amp; Akkommodasie</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-4\" style=\"padding-top: 120px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/thank-you-560x397.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"27\">Totsiens Ontbyt</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"28\">21 Julie 2019</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"29\">Almal is welkom om by ontbyt aan te sluit voordat almal vertrek vir 'n laaste totsiens.<br><br>Kan gereël word met aankoms<br>R 100 per persoon direk betaalbaar aan De Hoop</p>\n            </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);\n.striped .mbr-cards-col:nth-child(2n+1) {\n  background-color: #2e2e2e;\n}\n.mbr-cards-col:nth-child(odd) .card-title {\n  font-family: 'Droid Serif', serif;\n  font-size: 22px;\n}\n.mbr-cards-col:nth-child(odd) .card-subtitle {\n  font-size: 23px;\n}\n.mbr-cards-col:nth-child(even) .card-subtitle {\n  font-size: 23px;\n}\n.mbr-cards-col:nth-child(even) .card-title {\n  font-family: 'Droid Serif', serif;\n  font-size: 22px;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
         },
         {
           "_params": {
@@ -684,7 +689,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>De Hoop Natuur Resrvaat is geleë tussen Bredasdorp en Swellendam.</p><p>* Loer gerus op aanwysings bladsy vir pad kaart en instruksies *</p><p><br></p><p>Die hele De Hoop Reservaat word vir ons speciale dag gereserveer en ons vra dat alle gaste graag&nbsp;</p><p>hier oorslaap Vrydag, 19 July asook Saterdag, 20 July 2019</p><p>*Minimum twee nage*</p><p><br></p><p>Moet gerus nie bekommer oor aand ete die Vrydag of Saterdag aand nie, ons het reeds voorsiening gemaak.</p><p>Julle is welkom om oggend ete te geniet by die restaurant.</p><p><br></p>",
+          "text": "<p>De Hoop Natuur Resrvaat is geleë tussen Bredasdorp en Swellendam.</p><p>* Loer gerus op aanwysings bladsy vir pad kaart en instruksies *</p><p><br></p><p>Die hele De Hoop Reservaat word vir ons speciale dag gereserveer en ons vra dat alle gaste graag&nbsp;</p><p>hier oorslaap Vrydag, 19 July asook Saterdag, 20 July 2019</p><p>*Minimum twee nage*</p><p><b>Onderstaande tariewe sluit reeds 20% afslag in vir ons gaste</b></p><p><br></p><p>Moet gerus nie bekommer oor aand ete die Vrydag of Saterdag aand nie, ons het reeds voorsiening gemaak.</p><p>Julle is welkom om oggend ete te geniet by die restaurant.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -695,6 +700,345 @@
               "text-align": "center"
             }
           }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/7-2-600x402.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1-1-600x338.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/capture-600x337.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "De Hoop Village",
+          "subtitle1": "9 Apartments Available<br><b>Sleeps 6 Guests per unit @ R 423 p/p per nigth</b>",
+          "caption1": "<b>Room Facilities\n</b><br>Lounge/Dining area; outdoor braai and dining area.\nFully Equipped Kitchen<br><b>3 Bedrooms: </b><br>1 double (twin or double bed); 1 twin room &amp; 1 bunk room. Linen and hangers provided.<br><b>1 Bathroom</b>.",
+          "title2": "Equipped Cottages",
+          "subtitle2": "1 Cottage Available<br><b>Sleeps 6 Guests @ R 423 p/p per night</b>",
+          "caption2": "<b>Room Facilities\n</b><br>Fully Equipped Kitchen; lounge/dining area; outdoor braai and dining area.\n<br><b>3 Bedrooms:</b><br>2 double (double or twin beds) and 2 twins&nbsp;<br>Linen and hangers provided.<br><b>1 Bathroom&nbsp;</b>",
+          "title3": "Equipped Cottages",
+          "subtitle3": "6 Cottages Available<br><b>Sleeps 4 Guests per unit @ R 423 p/p per night</b>",
+          "caption3": "<b>Room Facilities</b> \n<br>Fully Equipped Kitchen; lounge/dining area; outdoor braai and dining area. \n<br><b>2 Bedrooms</b>:\n<br>1 double (double or twin beds) and 2 twins \n<br>Linen and hangers provided.\n<br><b>1 Bathroom</b>",
+          "title4": "Vlei Cottages",
+          "subtitle4": "3 Cottages Available<br><b>Sleeps 4 Guests per unit @ R 613 p/p per night</b>",
+          "caption4": "<b>Room Facilities</b>\n<br>Fully Equipped Kitchen; lounge/dinning area; outdoor braai.<br><b>2 Bedroom setup</b>&nbsp;<br>1 double and 1 twin. Linen and hangers provided.<br><b>1 Bathroom</b>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE on De Hoop Website</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE on De Hoop Website</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE on De Hoop Website</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE on De Hoop Website</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-s"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/capture-600x335.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/capture-2-600x399.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/capture-600x336.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/capture-1-600x337.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Opstal Houses",
+          "subtitle1": "3 Houses Available<br><b>Sleeps 6 Guests per unit @ R 542 p/p per nigth</b>",
+          "caption1": "<b>Room Facilities</b>\n<br>Fully Equipped Kitchen; lounge/dining area; fireplace; outdoor braai.\n<br><b>3 Bedrooms&nbsp;</b><br>1 double (double or twin beds) and 2 twin bedrooms. Linen and hangers provided.\n<br><b>&nbsp;1 Bathroom</b>",
+          "title2": "Opstal Stable Suite",
+          "subtitle2": "1 Suite Available<br><b>Sleeps 2 Guests @ R 986 p/p per nigth</b>",
+          "caption2": "<b>Room Facilities: </b><br>Kettle; coffee; tea; bar fridge\n<br><b>1 Bedroom </b><br>1 king size bed with mosquito net. Linen and hangers provided.\n<br><b>En-suite bathroom</b>",
+          "title3": "Opstal Vlei Suite",
+          "subtitle3": "1 Suite Available<br><b>Sleeps 2 Guests @ R 1701 p/p per nigth</b>",
+          "caption3": "<b>Room Facilities: \n</b><br>Kettle; coffee; tea; bar fridge \n<br><b>1 Bedroom \n</b><br>1 king size bed with mosquito net. Linen and hangers provided. \n<br><b>En-suite bathroom</b>",
+          "title4": "Opstal Figttree Suite",
+          "subtitle4": "1 Suite Available<br><b>Sleeps 2 Guests @ R 1701 p/p per nigth</b>",
+          "caption4": "<b>Room Facilities: \n</b><br>Kettle; coffee; tea; bar fridge \n<br><b>1 Bedroom \n</b><br>1 king size bed with mosquito net. Linen and hangers provided. \n<br><b>En-suite bathroom</b>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE on De Hoop Website</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE on De Hoop Website</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE on De Hoop Website</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE on De Hoop Website</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-t"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/capture-1-600x336.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/capture-2-600x337.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/capture-600x336.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/capture-1-600x337.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Opstal Cloete Suite",
+          "subtitle1": "4 Units Available<br><b>Sleeps 2 Guests @ R 1701 p/p per nigth</b>",
+          "caption1": "<b>Room Facilities</b>\n<br>Fully Equipped Kitchen; lounge/dining area; fireplace; outdoor braai.\n<br><b>3 Bedrooms&nbsp;</b><br>1 double (double or twin beds) and 2 twin bedrooms. Linen and hangers provided.\n<br><b>&nbsp;1 Bathroom</b>",
+          "title2": "Opstal Otter Suite",
+          "subtitle2": "3 Unit Available<br><b>Sleeps 2 Guests @ R 1701 p/p per nigth</b>",
+          "caption2": "<b>Room Facilities: </b><br>Kettle; coffee; tea; bar fridge\n<br><b>1 Bedroom </b><br>1 king size bed with mosquito net. Linen and hangers provided.\n<br><b>En-suite bathroom</b>",
+          "title3": "Opstal Vlei Suite",
+          "subtitle3": "1 Unit Available<br><b>Sleeps 2 Guests @ R 1701 p/p per nigth</b>",
+          "caption3": "<b>Facilities: \n</b><br>Kettle; coffee; tea; bar fridge \n<br><b>1 Bedroom \n</b><br>1 king size bed with mosquito net. Linen and hangers provided. \n<br><b>En-suite bathroom</b>",
+          "title4": "Opstal Figttree Suite",
+          "subtitle4": "1 Unit Available<br><b>Sleeps 2 Guests @ R 1701 p/p per nigth</b>",
+          "caption4": "<b>Facilities: \n</b><br>Kettle; coffee; tea; bar fridge \n<br><b>1 Bedroom \n</b><br>1 king size bed with mosquito net. Linen and hangers provided. \n<br><b>En-suite bathroom</b>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.dehoopcollection.com/project/cloete-suites/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.dehoopcollection.com/project/otter-suites/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-u"
         },
         {
           "_params": {
@@ -755,46 +1099,6 @@
               "font-size": "22px",
               "font-family": "'PT Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSearch": false,
-            "rowСount": "12",
-            "colCount": "4",
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/75244738-vector-succulent-plant-texture-drawing-seamless-pattern-background-great-for-subtle-botanical-modern-1-1300x1293.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#cccccc",
-            "overlayOpacity": "0.9"
-          },
-          "title": "Akkommodasie",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
-          "table": "<thead><tr><th>Eenheid</th><th>Max Gaste</th><th>Tarrief p/p</th><th>No Eenhede</th></tr></thead><tbody><tr><td>Opstal Stable Suite</td><td>2</td><td>R</td><td>1</td></tr><tr><td>Opstal Figtree Suite</td><td>2</td><td>R</td><td>1</td></tr><tr><td>Opstal Cloete Cottage</td><td>2</td><td>R</td><td>1</td></tr><tr><td>Opstal Cloete Suites</td><td>2</td><td>R</td><td>4</td></tr><tr><td>Opstal Otter Suites</td><td>2</td><td>R</td><td>3</td></tr><tr><td>Opstal Manor House&nbsp;</td><td>2</td><td>R</td><td>2</td></tr><tr><td>Opstal Houses</td><td>6</td><td>R</td><td>3</td></tr><tr><td>Vlei Cottages</td><td>4</td><td>R</td><td>3</td></tr><tr><td>Equipped Cottages</td><td>4</td><td>R</td><td>6</td></tr><tr><td>Equipped Cottages</td><td>6</td><td>R</td><td>1</td></tr><tr><td>De Hoop Village</td><td>6</td><td>R</td><td>9</td></tr><tr><td>Campsite Rondawels</td><td>2</td><td>R</td><td>5</td></tr></tbody>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTable1",
-          "_anchor": "extTable1-18",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px"
             }
           }
         },
@@ -932,13 +1236,13 @@
           },
           "title1": "Akkommodasie Betalings",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "LET WEL akkommodasie moet ten volle betaal word voor julle aankoms.  Betaling word direk aan De Hoop gemaak.\n<br><br>Alle verblyf moet bespreek en betaal word vir 4 weke voor die troudatum.",
+          "caption1": "LET WEL akkommodasie moet ten volle betaal word voor julle aankoms.  Betaling word direk aan De Hoop gemaak.\n<br><br>Alle verblyf moet bespreek en betaal word op laatste 4 weke voor die troudatum.",
           "title2": "Natuur Reservaat",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "<br>De Hoop is 'n natuurreservaat, daar is 'n bewaringsgeld betaalbaar van R40 per persoon (R20 kinders onder 12), wat kontant betaalbaar is by die hek wat na die Kaapse natuur gaan. As jou gaste 'n 'Wild Card' het, kan hulle dit gebruik teen 'n afslagtarief.\n<br>\n<br>Dit is belangrik om by die hekke tye te hou aangesien De Hoop 'n natuurreservaat is. \n<br>Sluitingstyd van 18h00 (19h00 op 'n Vrydag). \n<br>Indien julle laat mag wees, laat weet Brendon of Sherize dat hulle vooraf reëlings kan tref.&nbsp;<br>",
           "title3": "Belangrike Notas",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "• Kontant - Daar is geen Autobank naby nie en gaste benodig kontant vir die hekgelde, dus bring asseblief genoeg kontant saam,<br><br>• Petrol - Vul asseblief u voertuig op &nbsp;in Riviersonderend, Bredarsdorp of Swellendam voordat u na die Hoop ry. Daar is geen vulstasie op die reservaat nie.<br><br><br>• Uit Boek Tyd - Let wel, gaste moet om 10h00 uur uit boek.<br>Daarom moet u voor ontbyt op die dag van vetreking uitboek.<br><br><br>",
+          "caption3": "• Kontant - Daar is geen Autobank naby nie en gaste benodig kontant vir die hekgelde, dus bring asseblief genoeg kontant saam,<br><br>• Petrol - Vul asseblief u voertuig op &nbsp;in Riviersonderend, Bredarsdorp of Swellendam voordat u na die Hoop ry. Daar is geen vulstasie op die reservaat nie.<br><br>Check In: 14h00<br>Check Out: 10h00<br><br><br>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
