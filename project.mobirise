@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-13_2138",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -689,7 +689,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>De Hoop Natuur Resrvaat is geleë tussen Bredasdorp en Swellendam.</p><p>* Loer gerus op aanwysings bladsy vir pad kaart en instruksies *</p><p><br></p><p>Die hele De Hoop Reservaat word vir ons speciale dag gereserveer en ons vra dat alle gaste graag&nbsp;</p><p>hier oorslaap Vrydag, 19 July asook Saterdag, 20 July 2019</p><p>*Minimum twee nage*</p><p><b>Onderstaande tariewe sluit reeds 20% afslag in vir ons gaste</b></p><p><br></p><p>Moet gerus nie bekommer oor aand ete die Vrydag of Saterdag aand nie, ons het reeds voorsiening gemaak.</p><p>Julle is welkom om oggend ete te geniet by die restaurant.</p><p><br></p>",
+          "text": "<p>De Hoop Natuur Resrvaat is geleë tussen Bredasdorp en Swellendam.</p><p>* Loer gerus op aanwysings bladsy vir pad kaart en instruksies *</p><p><br></p><p>Die hele De Hoop Reservaat word vir ons speciale dag gereserveer en ons vra dat alle gaste graag&nbsp;</p><p>hier oorslaap Vrydag, 19 July asook Saterdag, 20 July 2019</p><p>*Minimum twee nage*</p><p><b>Onderstaande tariewe sluit reeds 20% afslag in vir ons gaste</b></p><p><br></p><p>Moet gerus nie bekommer oor aand ete die Vrydag of Saterdag aand nie, ons het reeds voorsiening gemaak.</p><p>Julle is welkom om oggend ete te geniet by die restaurant.</p><p><br></p><p>Loer gerus ook na die De Hoop Collection Website:</p><p><b>http://www.dehoopcollection.com/</b></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -707,7 +707,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": 4,
@@ -802,10 +802,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE on De Hoop Website</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE on De Hoop Website</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE on De Hoop Website</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE on De Hoop Website</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.dehoopcollection.com/project/de-hoop-village-at-the-opstal/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE on De Hoop Website</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.dehoopcollection.com/project/equipped-cottages/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE on De Hoop Website</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.dehoopcollection.com/project/equipped-cottages/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE on De Hoop Website</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://www.dehoopcollection.com/project/opstal-vlei-cottages/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE on De Hoop Website</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -820,7 +820,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
             "columns": 4,
@@ -933,7 +933,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
             "columns": "2",
